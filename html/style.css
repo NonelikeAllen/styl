@@ -1,0 +1,194 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    background-color: black;
+}
+
+nav{
+    background-color: whitesmoke;
+    height: 90px;
+    width: 100%;
+}
+
+nav ul{
+    justify-content: space-around;
+     display: flex;
+}
+
+
+nav li{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 0 0 0;
+    margin: 0 0 10px 0;
+}
+
+nav ul li a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+nav ul li a:hover{
+    color: brown;
+}
+
+
+/* .row1{
+    padding: 10 0 0 -100px;
+}
+
+.col-lg-6{
+    background-image: url(img/men2.jpg);
+    height: 90vh;
+    width: 30%;
+    background-repeat: no-repeat;
+    
+    margin: 10px 0 0 -100px !important;
+    border-radius: 20px;
+}
+
+.col-lg-6 span{
+    color: black;
+}
+
+.col-lg-6 h4{
+    font-style: bold;
+    font-size: 40px;
+    color: maroon;
+    margin: 500px 0 0 0;
+    display: flex;
+}
+
+.col-lg-6 button{
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+}
+
+.col-lg-6 button:hover{
+    background-color: darkgrey;
+    color: burlywood;
+}
+
+.col-lg-6 a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.col-llg-5{
+    background-image: url(img/women2.jpg);
+    height: 90vh;
+    width: -20%;
+    background-repeat: no-repeat;
+    padding: 50px 0 0 0;
+    margin: 10px 0 0 350px !important;
+    border-radius: 20px;
+    padding: 0 0 0 300px !important;
+} */
+
+.col-lg-6{
+    background-image: url(img/men2.jpg);
+    margin: 100px 0 0 10px;
+    padding: 0 0 0 -400px;
+    height: 90vh;
+    /* background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    /* border-radius: 50px; */
+    background-size: 600px;
+}
+
+
+.col-lg-6 span{
+    color: black;
+}
+
+.col-lg-6 h4{
+    font-style: bold;
+    font-size: 40px;
+    color: maroon;
+    /* margin: 0 0 0 0; */
+    display: flex;
+    padding: 500px 0 0 150px;
+}
+
+.col-lg-6 button{
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    margin: 0 0 0 300px;
+}
+
+.col-lg-6 button:hover{
+    background-color: darkgrey;
+    color: burlywood;
+}
+
+.col-lg-6 a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.col-llg-5{
+    background-image: url(img/women2.jpg);
+    margin: -643px -600px 0 0;
+    padding: 0 0 0 -400px;
+    height: 90vh;
+    /* background-size: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 500px;
+    background-size: 600px;
+}
+
+.col-llg-5 h4{
+    font-style: bold;
+    font-size: 40px;
+    color: maroon;
+    /* margin: 0 0 0 0; */
+    display: flex;
+    padding: 500px 0 0 750px;
+}
+
+.col-llg-5 h4 span{
+    color: black;
+}
+
+.col-llg-5 button{
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    margin: 0 0 0 950px;
+}
+
+.col-llg-5 button a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+
+.container1 p{
+    color: black;
+}
+
+.container1 h4{
+    color: black;
+}
+
+.container1{
+    background-color: antiquewhite;
+    margin: 50px 0 0 70px;
+    width: 90%;
+    padding: 0 0 0 150px;
+}
